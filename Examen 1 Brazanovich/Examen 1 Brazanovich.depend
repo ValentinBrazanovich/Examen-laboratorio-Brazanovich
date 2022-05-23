@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1653317067 source:c:\users\joshua\desktop\examen 1 brazanovich\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"ArrayFecha.h"
+	"ArrayEmpresa.h"
+	"ArrayTipo.h"
+	"ArrayMicro.h"
+	"ArrayDestino.h"
+	"ArrayViaje.h"
+	"ArrayChofer.h"
+
+1653265642 c:\users\joshua\desktop\examen 1 brazanovich\arrayfecha.h
+
+1653306996 c:\users\joshua\desktop\examen 1 brazanovich\arrayempresa.h
+
+1653307734 c:\users\joshua\desktop\examen 1 brazanovich\arraytipo.h
+
+1653313369 c:\users\joshua\desktop\examen 1 brazanovich\arraymicro.h
+	"ArrayChofer.h"
+
+1653317034 c:\users\joshua\desktop\examen 1 brazanovich\arraydestino.h
+
+1653316999 c:\users\joshua\desktop\examen 1 brazanovich\arrayviaje.h
+	"ArrayDestino.h"
+
+1653317034 source:c:\users\joshua\desktop\examen 1 brazanovich\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"ArrayFecha.h"
+	"ArrayEmpresa.h"
+	"ArrayTipo.h"
+	"ArrayMicro.h"
+	"ArrayDestino.h"
+	"ArrayViaje.h"
+	"ArrayChofer.h"
+
+1653312262 c:\users\joshua\desktop\examen 1 brazanovich\arraychofer.h
+
